@@ -1,0 +1,2 @@
+File reading in Java can be tricky, but once you get the hang of it, it's quite simple!
+Don't stop coding! You got this :) 
